@@ -39,8 +39,9 @@
     "priority": "3",
     "timeToFinish": "10",
     "createdAt": "2022-04-11T09:17:34.728Z",
-    "status": "inactive",
-    "id": "1649668654728"
+    "status": "active",
+    "id": "1649668654728",
+    "activationTime": "2022-04-15T16:03:24.952Z"
   },
   {
     "title": "Testing",
@@ -79,7 +80,7 @@
     "priority": "3",
     "timeToFinish": "5",
     "createdAt": "2022-04-08T23:01:00.258Z",
-    "status": "active",
+    "status": "completed",
     "id": "1649458860259",
     "activationTime": "2022-04-14T13:55:07.270Z"
   },
@@ -92,36 +93,6 @@
     "createdAt": "2022-04-08T23:00:18.903Z",
     "status": "inactive",
     "id": "1649458818903"
-  },
-  {
-    "id": "1",
-    "title": "Learning singleton pattern",
-    "description": "Description 1",
-    "link": "https://link.com",
-    "priotrity": 3,
-    "timeToFinish": 120,
-    "createdAt": "2022-04-11T10:35:48.243Z",
-    "status": "inactive"
-  },
-  {
-    "id": "2",
-    "title": "Learning 2",
-    "description": "Description 2",
-    "link": "https://link.com",
-    "priotrity": 2,
-    "timeToFinish": 60,
-    "createdAt": "2022-04-11T10:35:48.243Z",
-    "status": "inactive"
-  },
-  {
-    "id": "3",
-    "title": "Learning 3",
-    "description": "Description 3",
-    "link": "https://link.com",
-    "priotrity": 4,
-    "timeToFinish": 30,
-    "createdAt": "2022-04-11T10:35:48.243Z",
-    "status": "inactive"
   },
   {
     "title": "Felicity",

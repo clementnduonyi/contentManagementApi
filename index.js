@@ -13,7 +13,7 @@ const getResources = () => JSON.parse(fs.readFileSync(pathToFile))
 app.use(express.json())
 
 app.get('/', (req, res)=>{
-    res.send("Hello World")
+    res.send("Content manager API")
 })
 
 app.get("/api/resources/:id", (req, res)=>{
